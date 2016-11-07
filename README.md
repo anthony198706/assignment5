@@ -5,7 +5,7 @@
 #2. take input from the user
 #3. use time/timestamps
 #4. output results to the screen 
-#5. submit to piazza. 
+
 
 package assignment;
 import java.sql.Timestamp;
